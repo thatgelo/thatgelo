@@ -4,13 +4,13 @@
 I am a recent graduate from UC Berkeley with a Bachelor's in Data Science, with my emphasis being in Business and Industrial Analytics. Some of my courses include Data Mining and Analytics, Commercial and Industrial Database Systems, and Data, Inference, and Decisions, all of which have given me a strong foundation in Data Science.
 
 ## Technologies: 
-### Languages: 
+### **Languages:** 
 - Python, SQL, R, Java
 
-### Frameworks:
+### **Frameworks:**
 - NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, PyMC, ggplot2, dplyr, tidyverse
 
-### Platforms:
+### **Platforms:**
 - Jupyter, VSCode, MySQL, Git + Github
 
 
