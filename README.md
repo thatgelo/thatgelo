@@ -11,7 +11,7 @@ I am a recent graduate from UC Berkeley with a Bachelor's in Data Science, with 
 - NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, PyMC, ggplot2, dplyr, tidyverse
 
 ### **Platforms:**
-- Jupyter, VSCode, MySQL, Git + Github
+- Jupyter, VSCode, MySQL, Git + Github, Tableau
 
 
 Please feel free to reach out to me through my LinkedIn or email me!
