@@ -5,7 +5,7 @@ I am a recent graduate from UC Berkeley with a Bachelor's in Data Science, with 
 
 ## Technologies: 
 ### **Languages:** 
-- Python, SQL, R, Java
+- Python, SQL, R, Java, CSS, HTML
 
 ### **Frameworks:**
 - NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, PyMC, ggplot2, dplyr, tidyverse
